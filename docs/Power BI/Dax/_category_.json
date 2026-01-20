@@ -1,0 +1,9 @@
+
+{
+  "label": "DAX",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Cheat sheets DAX : contextes, CALCULATE, time intelligence, patterns."
+  }
+}

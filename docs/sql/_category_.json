@@ -1,0 +1,8 @@
+{
+  "label": "SQL",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Cheat sheets SQL : patterns, dédoublonnage, window functions, modèles de requêtes."
+  }
+}
