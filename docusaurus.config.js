@@ -72,12 +72,12 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          {
-            title: 'Docs',
-            items: [
-              { label: 'DAX — Agrégations', to: '/docs/PowerBI/Dax/01-aggregations-counting' },
-            ],
-          },
+          // {
+          //   title: 'Docs',
+          //   items: [
+          //     { label: 'DAX — Agrégations', to: '/docs/PowerBI/Dax/01-aggregations-counting' },
+          //   ],
+          // },
           {
             title: 'Réseaux',
             items: [
