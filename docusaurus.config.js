@@ -37,15 +37,6 @@ const config = {
           editUrl:
             'https://github.com/deujo/repo/edit/main/', // facultatif : adapte si tu veux afficher "Edit this page"
         },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          editUrl:
-            'https://github.com/deujo/repo/edit/main/blog/',
-        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -70,8 +61,7 @@ const config = {
             position: 'left',
             label: '📚 Ressources',
           },
-          { to: '/blog', label: 'Blog', position: 'left' },
-          { to: '/about', label: 'À propos', position: 'left' },
+          { to: 'docs/about', label: 'À propos', position: 'left' },
           {
             href: 'https://github.com/deujo/repo',
             label: 'GitHub',
@@ -85,13 +75,13 @@ const config = {
           {
             title: 'Docs',
             items: [
-              { label: 'DAX — Agrégations', to: '/docs/dax/01-aggregations-counting' },
+              { label: 'DAX — Agrégations', to: '/docs/PowerBI/Dax/01-aggregations-counting' },
             ],
           },
           {
             title: 'Réseaux',
             items: [
-              { label: 'LinkedIn', href: 'https://www.linkedin.com/in/jonathan-delattre/' },
+              { label: 'LinkedIn', href: 'https://www.linkedin.com/in/jonathandelattre/' },
             ],
           },
         ],
