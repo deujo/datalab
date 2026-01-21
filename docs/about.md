@@ -29,6 +29,6 @@ J'ai créé cette base de connaissances pour :
 
 ### 📬 Me contacter
 
-Tu as une question sur un script ou une opportunité freelance ?
+Tu as une question sur un script ?
 
 * 👔 [Mon Profil LinkedIn](https://www.linkedin.com/in/jonathan-delattre/)

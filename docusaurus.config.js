@@ -47,12 +47,12 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/JDDataLab_logo.png',
       navbar: {
         title: 'Data Ops Lab',
         logo: {
           alt: 'Logo Data',
-          src: 'img/logo.svg',
+          src: 'img/JDDataLab_logo.png',
         },
         items: [
           {
